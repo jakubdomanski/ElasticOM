@@ -27,7 +27,7 @@
     "require": {
         "php": ">=7",
         "doctrine/annotations": "^1",
-        "elasticsearch/elasticsearch": "^2.2.2 | ^5",
+        "elasticsearch/elasticsearch": "^6",
         "zendframework/zend-hydrator": "^2"
     },
     "require-dev": {
